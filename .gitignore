@@ -1,0 +1,13 @@
+.env
+
+.pyc
+__pycache__
+
+
+.safetensors
+.pt
+.json
+
+chroma_db
+.sqlite3
+.bin
